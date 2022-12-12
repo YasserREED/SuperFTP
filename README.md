@@ -11,6 +11,7 @@
 #### SuperFTP Provide:
 - **Check FTP `Connection` Servers**
 - **Check FTP `Anonymous` Default login**
+- **Output as `JSON` and `TXT` Files**
 
 #### SuperFTP Helps:
 - **Bug hunter for BugBounty**
