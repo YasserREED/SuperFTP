@@ -10,7 +10,7 @@ print('\033[1m')
 
 Outputs.front()
 
-choose = str(input(f"{RED}[REQ] {WHITE} Please Enter number Ex => [ {YELLOW}1{WHITE} or {YELLOW}2{WHITE} ] : ")).lower()
+choose = str(input(f"{RED}[REQ] {WHITE} Please Enter number Ex => [ {YELLOW}1{WHITE} to {YELLOW}3{WHITE} ] : ")).lower()
 match choose:
     
     case "1":      
