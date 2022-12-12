@@ -15,9 +15,9 @@
 
 #### SuperFTP Helps:
 - **Bug hunter for BugBounty**
-- **Network Engineers**
-- **IT**
-
+- **Network operations**
+- **Security operations**
+- **IT operations**
 
 
 ## How to Downlaod SMSme in Linux
