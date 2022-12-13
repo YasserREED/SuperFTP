@@ -20,7 +20,7 @@
 - **IT operations**
 
 
-## How to Downlaod SMSme in Linux
+## How to Downlaod SuperFTP in Linux
 
 #### Copy this Link
 ```console
